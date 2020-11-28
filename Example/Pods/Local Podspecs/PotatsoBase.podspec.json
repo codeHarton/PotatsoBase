@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of PotatsoBase.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/188296532@qq.com/PotatsoBase",
+  "homepage": "https://github.com/codeHarton/PotatsoBase",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "188296532@qq.com": "wangshoudu@yungengxin.com"
   },
   "source": {
-    "git": "https://github.com/188296532@qq.com/PotatsoBase.git",
+    "git": "https://github.com/codeHarton/PotatsoBase.git",
     "tag": "0.1.0"
   },
   "platforms": {
