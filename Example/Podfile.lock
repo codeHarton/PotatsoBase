@@ -1,5 +1,5 @@
 PODS:
-  - PotatsoBase (0.1.0)
+  - PotatsoBase (0.0.2)
 
 DEPENDENCIES:
   - PotatsoBase (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PotatsoBase: f6fdb78d064ddad7818830cec79694d8054d105a
+  PotatsoBase: 5fef1b14d82b2566d86da460216f5d724f643f39
 
 PODFILE CHECKSUM: dd534a4bfe3862d5540a5d7aa7afdb431d3c50cc
 

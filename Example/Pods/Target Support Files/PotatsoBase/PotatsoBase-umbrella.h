@@ -14,6 +14,7 @@
 #import "NSError+Helper.h"
 #import "NSString+Localize.h"
 #import "Potatso.h"
+#import "PotatsoBase.h"
 #import "Settings.h"
 
 FOUNDATION_EXPORT double PotatsoBaseVersionNumber;

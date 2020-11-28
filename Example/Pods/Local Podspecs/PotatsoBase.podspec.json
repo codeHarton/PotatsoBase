@@ -1,7 +1,7 @@
 {
   "name": "PotatsoBase",
-  "version": "0.1.0",
-  "summary": "A short description of PotatsoBase.",
+  "version": "0.0.2",
+  "summary": "诶",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/codeHarton/PotatsoBase",
   "license": {
@@ -12,8 +12,8 @@
     "188296532@qq.com": "wangshoudu@yungengxin.com"
   },
   "source": {
-    "git": "https://github.com/codeHarton/PotatsoBase.git",
-    "tag": "0.1.0"
+    "git": "http://10.191.80.217/accelerator-yunfeng/ios-vpn/PotatsoBase.git",
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"
