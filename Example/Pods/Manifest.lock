@@ -1,0 +1,16 @@
+PODS:
+  - PotatsoBase (0.1.0)
+
+DEPENDENCIES:
+  - PotatsoBase (from `../`)
+
+EXTERNAL SOURCES:
+  PotatsoBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PotatsoBase: 495de495cec3519c0fb4468969f9669c4bc1c6a7
+
+PODFILE CHECKSUM: dd534a4bfe3862d5540a5d7aa7afdb431d3c50cc
+
+COCOAPODS: 1.8.4
