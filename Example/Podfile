@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PotatsoBase_Example' do
+  pod 'PotatsoBase', :path => '../'
+
+  target 'PotatsoBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
